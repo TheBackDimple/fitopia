@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+
+# local env
+backend/.env
+
+# system files
+.DS_Store
+*.log
+.idea/
+desktop.ini
+
