@@ -123,5 +123,5 @@ JWT_SECRET=your_jwt_secret
 
 ## 👤 Author
 
-**Abdiel Marcano** — [Portfolio](https://abdielMarcano.dev) · 
+**Abdiel Marcano** — [Portfolio](https://abdiel-portfolio.vercel.app) · 
 [LinkedIn](https://linkedin.com/in/abdiel-marcano)
